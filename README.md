@@ -27,7 +27,7 @@ Junior Android developer with experience in creating innovative and high-quality
 
 - **Programming Languages:** Java, Kotlin
 - **Development Environments:** Android Studio, IntelliJ IDEA
-- **Tools and Technologies:** Retrofit, MVVM (Model-View-ViewModel), Scrum, Hilt Dagger, Room, XML, Jetpack Compose, Shared Preferences, Agile, RESTful APIs
+- **Tools and Technologies:** Retrofit, MVVM, Scrum, Hilt Dagger, Room, XML, Jetpack Compose, Shared Preferences, Agile, RESTful APIs
 - **Version Control:** Git, GitHub
 - **Other Skills:** UI/UX, Unit Testing, Continuous Integration
 
