@@ -35,5 +35,72 @@ Junior Android developer with experience in creating innovative and high-quality
 
 ### Featured Projects
 
-- **E-Commerce App:** [GitHub Repo]()
-- **Game App:** [GitHub Repo]()
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Food App </h3>
+<div align="center">
+<a href="https://github.com/DeMoraDev/my-food-app" target="_blank"><img src="https://github.com/user-attachments/assets/10a07355-a399-4742-a18b-248e605e3498" width="400" alt="App food"></a>
+<p>
+<a href="https://github.com/DeMoraDev/my-food-app" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Complete delivery food App</strong> - developed in Kotlin using Jetpack Compose, MVVM, RetroFit, Hilt-Dagger. It also has its own backend server and API developed in Python that handles products info, images and authentication functions.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Matatena</h3>
+<div align="center">                                       
+<a href="https://github.com/DeMoraDev/matatena" target="_blank"><img src="https://github.com/user-attachments/assets/dce9a3cc-4f46-40d4-8754-3ab9f8f29a3c" width="400" alt="Matatena"></a>
+<br>
+<p>
+<a href="https://github.com/DeMoraDev/matatena" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>A dice game made in Java and XML using Android Studio. It is a game of chance and strategy where you will face an AI opponent that varies in difficulty depending on the enemy. There's gambling and cats :)</p>
+
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">SumoBall</h3>
+<div align="center">
+<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/817b9249-e75f-4b46-b580-d7195de83570" width="400" alt="Sumoball"></a>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=Fn4OgxTEeDo" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>This is a real-time multiplayer Android game developed using Unity. Big project completely finished in 2019 and previously uploaded to Google Play (not currently available)..</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Geography game</h3>
+<div align="center">
+<a href="https://github.com/DeMoraDev/Capitales" target="_blank"><img src="" width="400" alt="Capitales y banderas"></a>
+<p>
+<a href="https://github.com/DeMoraDev/Capitales" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Geography quiz game made with Java/XML in Android Studio.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
