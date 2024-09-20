@@ -96,7 +96,7 @@ Junior Android developer with experience in creating innovative and high-quality
 <td width="50%">
 <h3 align="center">Geography game</h3>
 <div align="center">
-<a href="https://github.com/DeMoraDev/Capitales" target="_blank"><img src="" width="400" alt="Capitales y banderas"></a>
+<a href="https://github.com/DeMoraDev/Capitales" target="_blank"><img src="https://github.com/user-attachments/assets/e3ee9503-3242-43ab-b1ce-c10d416e06e0" width="400" alt="Capitales y banderas"></a>
 <p>
 <a href="https://github.com/DeMoraDev/Capitales" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -104,7 +104,7 @@ Junior Android developer with experience in creating innovative and high-quality
 </p>
 <p>Geography quiz game made with Java/XML in Android Studio.</p>
 </div>
-                                                                                      
+                                                                               
 </td>  
 </table>                                                                                 
 </div>
