@@ -1,5 +1,6 @@
 <div align="center">
-<h1 align="center">Hi, i'm <a href="https://aristi.dev">DeMoraDev <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNiazFuNXBjeXFrNmJ5OG4weWEyd2s5dXBqNHJzNmJ6N3Fub2IxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.webp" width="30" ></a> </h1> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThtdm1mam1qNWhmZDU3ODU2Z2JqZzhkenlmOTZlbXprYWhtMTZzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y4bzv6DYbYzy8jDnoW/giphy.webp" width="100">
+  <h1 align="center">Hi, I'm <a href="https://aristi.dev">DeMoraDev</a></h1>
 </div>
 <img src="https://github.com/user-attachments/assets/2b0a29d4-e465-4f09-a5fc-24f2109f3e3e">
 
