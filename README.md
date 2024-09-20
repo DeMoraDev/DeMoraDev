@@ -19,11 +19,20 @@ Junior Android developer with experience in creating innovative and high-quality
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+![Kotlin](https://img.shields.io/badge/Kotlin-8b14f9.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600.svg?style=for-the-badge&logo=xml&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-FFCA28.svg?style=for-the-badge&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-4DB33D.svg?style=for-the-badge&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-00BFFF.svg?style=for-the-badge&logo=scrum&logoColor=white)
+![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-F9AB00.svg?style=for-the-badge&logo=android&logoColor=white)
+![Hilt-Dagger](https://img.shields.io/badge/Hilt_Dagger-007396.svg?style=for-the-badge&logo=dagger&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-32CD32.svg?style=for-the-badge&logo=agile&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-00599C.svg?style=for-the-badge&logo=api&logoColor=white)
+
 <br />
 
 ---
