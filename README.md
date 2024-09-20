@@ -1,7 +1,11 @@
-# 🏄‍♂️ Julio De Mora
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">DeMoraDev <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNiazFuNXBjeXFrNmJ5OG4weWEyd2s5dXBqNHJzNmJ6N3Fub2IxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.webp" width="30" ></a> </h1> 
+</div>
+<img src="https://github.com/user-attachments/assets/2b0a29d4-e465-4f09-a5fc-24f2109f3e3e">
 
-**`Android Developer`**
 
+
+# 🏄‍♂️ De Mora
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DeMora-blue)](https://www.linkedin.com/in/julio-de-mora/)
 
 ---
