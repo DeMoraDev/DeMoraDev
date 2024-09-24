@@ -28,7 +28,6 @@ Junior Android developer with experience in creating innovative and high-quality
 ![Room](https://img.shields.io/badge/Room-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-00BFFF.svg?style=for-the-badge&logo=scrum&logoColor=white)
-![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-F9AB00.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Hilt-Dagger](https://img.shields.io/badge/Hilt_Dagger-007396.svg?style=for-the-badge&logo=dagger&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-32CD32.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-00599C.svg?style=for-the-badge&logo=api&logoColor=white)
