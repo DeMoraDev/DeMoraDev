@@ -13,7 +13,7 @@
 
 ### About Me
 
-Junior Android developer with experience in creating innovative and high-quality mobile applications. Passionate about technology and developing solutions that improve people's lives. Committed to continuous learning and adopting best practices in software development. Experienced with multiple personal and professional mobile application projects.
+Junior developer with experience in creating innovative and high-quality mobile applications. Passionate about technology and developing solutions that improve people's lives. Committed to continuous learning and adopting best practices in software development. Experienced with multiple personal and professional mobile application projects.
 
 ---
 
