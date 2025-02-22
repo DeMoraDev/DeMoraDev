@@ -87,7 +87,7 @@ Junior developer with experience in creating innovative and high-quality mobile 
 <td width="50%">
 <h3 align="center">SumoBall</h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/817b9249-e75f-4b46-b580-d7195de83570" width="400" alt="Sumoball"></a>
+<a href="https://github.com/DeMoraDev/Sumoball" target="_blank"><img src="https://github.com/user-attachments/assets/817b9249-e75f-4b46-b580-d7195de83570" width="400" alt="Sumoball"></a>
 <p>
 <a href="https://github.com/DeMoraDev/Sumoball" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
