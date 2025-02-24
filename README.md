@@ -54,7 +54,7 @@ Junior developer with experience in creating innovative and high-quality mobile 
 <td width="50%">
 <h3 align="center">Ideavista</h3>
 <div align="center">
-<a href="https://github.com/DeMoraDev/Ideavista" target="_blank"><img src="https://github.com/user-attachments/assets/78a4abf7-0717-4fea-90cb-7f536fd2cd3e" width="400" alt="Capitales y banderas"></a>
+<a href="https://github.com/DeMoraDev/Ideavista/edit/main/README.md#Ideavista" target="_blank"><img src="https://github.com/user-attachments/assets/78a4abf7-0717-4fea-90cb-7f536fd2cd3e" width="400" alt="Capitales y banderas"></a>
 <p>
 <a href="https://github.com/DeMoraDev/Ideavista" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
