@@ -48,8 +48,22 @@ Junior developer with experience in creating innovative and high-quality mobile 
 
 ### Featured Projects
 
+
 <table>
 <tr>
+<td width="50%">
+<h3 align="center">Ideavista</h3>
+<div align="center">
+<a href="https://github.com/DeMoraDev/Ideavista" target="_blank"><img src="https://github.com/user-attachments/assets/78a4abf7-0717-4fea-90cb-7f536fd2cd3e" width="400" alt="Capitales y banderas"></a>
+<p>
+<a href="https://github.com/DeMoraDev/Ideavista" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>A modern real estate app for Android, built with Kotlin and Jetpack Compose. It follows Clean Architecture (MVVM) with a modular structure (Data, Domain, Presentation) and uses Koin for dependency injection. The app integrates Firebase Auth, Firestore, and the Google Maps API for real-time data and location services. Navigation is handled with Jetpack Navigation, ensuring a smooth user experience.</p>
+</div>
+</td> 
+
 <td width="50%">
 <h3 align="center">Food App </h3>
 <div align="center">
@@ -61,8 +75,19 @@ Junior developer with experience in creating innovative and high-quality mobile 
 </p>
 <p>Complete delivery food App</strong> - developed in Kotlin using Jetpack Compose, MVVM, RetroFit, Hilt-Dagger. It also has its own backend server and API developed in Python that handles products info, images and authentication functions.</p>
 </div>
-                                                                                      
-</td>
+</td> 
+</tr>                                                             
+</table>
+
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+ 
 
 <td width="50%">
                <br>
@@ -77,13 +102,7 @@ Junior developer with experience in creating innovative and high-quality mobile 
 </p>
 </p>A dice game made in Java and XML using Android Studio. It is a game of chance and strategy where you will face an AI opponent that varies in difficulty depending on the enemy. There's gambling and cats :)</p>
 
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-<table>
-<tr>
+  
 <td width="50%">
 <h3 align="center">SumoBall</h3>
 <div align="center">
@@ -100,20 +119,6 @@ Junior developer with experience in creating innovative and high-quality mobile 
 </div>
                                                                                       
 </td>       
-
-<td width="50%">
-<h3 align="center">Geography game</h3>
-<div align="center">
-<a href="https://github.com/DeMoraDev/Capitales" target="_blank"><img src="https://github.com/user-attachments/assets/e3ee9503-3242-43ab-b1ce-c10d416e06e0" width="400" alt="Capitales y banderas"></a>
-<p>
-<a href="https://github.com/DeMoraDev/Capitales" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Geography quiz game made with Java/XML in Android Studio.</p>
-</div>
-                                                                               
-</td>  
 </table>                                                                                 
 </div>
 <br>
